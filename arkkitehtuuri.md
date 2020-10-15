@@ -2,7 +2,11 @@
 
 ## Rakenne
 
+
+
 ## Käyttöliittymä
+
+Käyttöliittymä toimii yhden näkymän sisällä.
 
 ## Tiedostot
 
