@@ -14,4 +14,6 @@ Jos mato törmää itseensä tai reunoihin niin peli päättyy. Pelin pisteet ov
 
 ## Ohjelman käynnistäminen
 
+Lataa tiedosto [Matopeli.jar]()
 
+Ohjelma käynnistyy komennolla `java -jar Matopeli.jar`
