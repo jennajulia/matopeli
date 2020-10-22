@@ -14,6 +14,6 @@ Jos mato törmää itseensä tai reunoihin niin peli päättyy. Pelin pisteet ov
 
 ## Ohjelman käynnistäminen
 
-Lataa tiedosto [Matopeli.jar]()
+Lataa tiedosto [Extreme_matopeli-1.0-SNAPSHOT.jar](https://github.com/jennajulia/matopeli/releases/download/Matopeli/Extreme_matopeli-1.0-SNAPSHOT.jar)
 
 Ohjelma käynnistyy komennolla `java -jar Matopeli.jar`
