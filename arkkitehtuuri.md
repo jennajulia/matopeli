@@ -6,7 +6,7 @@
 
 Pelin mato ja syötti koostuvat yksittäisistä koordinaatein muodostetuista palasista. Syötti on yksittäinen koordinaatti, ja mato on jono joka sisältää useita koordinaatteja. Sitä mukaan kun mato liikkuu, jonon rakenne muuttuu. 
 
-<img src="" width="700">
+<img src="https://app.diagrams.net/#Hjennajulia%2Fmatopeli%2Fmaster%2FUntitled%20Diagram.html" width="700">
 
 ## Käyttöliittymä
 
