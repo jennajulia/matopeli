@@ -8,7 +8,7 @@ Pelin mato ja syötti koostuvat yksittäisistä koordinaatein muodostetuista pal
 
 ## Käyttöliittymä
 
-<img src="http-equiv="refresh" content="0;URL='https://app.diagrams.net/#Hjennajulia%2Fmatopeli%2Fmaster%2FUntitled%20Diagram.html">
+<img src=" https://app.diagrams.net/#Hjennajulia%2Fmatopeli%2Fmaster%2FUntitled%20Diagram.html " width="450">
 
 Käyttöliittymä toimii yhden näkymän sisällä.
 
