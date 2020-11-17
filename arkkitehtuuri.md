@@ -8,6 +8,8 @@ Pelin mato ja syötti koostuvat yksittäisistä koordinaatein muodostetuista pal
 
 ## Käyttöliittymä
 
+<img src="https://app.diagrams.net/#Hjennajulia%2Fmatopeli%2Fmaster%2FUntitled%20Diagram.html" width="160">
+
 Käyttöliittymä toimii yhden näkymän sisällä.
 
 Pelinäytöllä näkyy pelaajan kerryttämät pisteen reaaliaikaisesti. Pelin päätyttyä ruudulla näkyy teksti  joka ilmoittaa pelin loppumisesta, sekä lopullisen pistemäärän.
