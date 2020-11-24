@@ -6,7 +6,7 @@
 
 Pelin mato ja syötti koostuvat yksittäisistä koordinaatein muodostetuista palasista. Syötti on yksittäinen koordinaatti, ja mato on jono joka sisältää useita koordinaatteja. Sitä mukaan kun mato liikkuu, jonon rakenne muuttuu. 
 
-<img src=" https://raw.githubusercontent.com/jennajulia/matopeli/master/N%C3%A4ytt%C3%B6kuva%20(302).png" width="400">
+<img src="https://raw.githubusercontent.com/jennajulia/matopeli/master/N%C3%A4ytt%C3%B6kuva%20(302).png" width="400">
 
 ## Käyttöliittymä
 
